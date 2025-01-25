@@ -20,6 +20,11 @@ Expert-led sessions providing insights into gamification strategies, digital inn
 
 ## 🌐 Get Involved
 
+Join the conversation on our GitHub Discussions! Share ideas, ask questions, or provide feedback:
+- [DC-G4P GitHub Discussions](https://github.com/gamingforpurpose/.github/discussions)
+
+We’d love to hear your thoughts and collaborate with you!
+
 ### Join Our Community
 We welcome individuals, organizations, and enthusiasts from all backgrounds to be part of our mission:
 
